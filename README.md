@@ -1,3 +1,3 @@
 # Python-Screen-Locker
 
-## A short script to lock computers.
+## A short script to lock computers's screen.
